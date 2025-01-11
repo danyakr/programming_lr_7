@@ -1,5 +1,5 @@
 import unittest
-from app import app, current_rates  # Импортируйте приложение из вашего файла
+from app import app, current_rates
 from flask import json
 
 
